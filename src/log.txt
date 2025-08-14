@@ -1,0 +1,42 @@
+INFO       in table.py            --> Initialization of table: "[['', 'Thickness (nm)', 'Ideal CO2 permeance (GPU)', 'Ideal CO2/N2 selectivity', 'Experimental CO2 permeance (GPU)', 'Experimental CO2/N2 selectivity'], ['CAPATRP2h', '145.3\xa0±\xa019.2', '1354.9', '69.0', '1013', '71.3'], ['CAPATRP3h', '195.9\xa0±\xa019.7', '1009.0', '69.2', '838', '72.5'], ['CAPATRP4h', '247.7\xa0±\xa07.3', '800.0', '69.4', '204', '57.5']]"
+INFO       in table.py            --> Configuration parameters are: {'use_title_row': True, 'use_prefixing': True, 'use_footnotes': True, 'use_spanning_cells': True, 'use_header_extension': True, 'use_max_data_area': False, 'standardize_empty_data': True, 'row_header': None, 'col_header': None}
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in table.py            --> Initialization of table: "[[''], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h']]"
+INFO       in table.py            --> Configuration parameters are: {'standardize_empty_data': False, 'clean_row_header': True, 'row_header': 0, 'col_header': 0}
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in table.py            --> Initialization of table: "[[''], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h']]"
+INFO       in table.py            --> Configuration parameters are: {'standardize_empty_data': False, 'clean_row_header': True, 'row_header': 0, 'col_header': 0}
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in table.py            --> Initialization of table: "[[''], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h']]"
+INFO       in table.py            --> Configuration parameters are: {'standardize_empty_data': False, 'clean_row_header': True, 'row_header': 0, 'col_header': 0}
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in table.py            --> Initialization of table: "[[''], [''], [''], ['']]"
+INFO       in table.py            --> Configuration parameters are: {'standardize_empty_data': False, 'clean_row_header': True, 'row_header': 0, 'col_header': 0}
+INFO       in from_any.py         --> Input is list type.
+CRITICAL   in table.py            --> Input table is empty.
+INFO       in table.py            --> Initialization of table: "[['', 'Thickness (nm)', 'Ideal CO2 permeance (GPU)', 'Ideal CO2/N2 selectivity', 'Experimental CO2 permeance (GPU)', 'Experimental CO2/N2 selectivity'], ['CAPATRP2h', '145.3\xa0±\xa019.2', '1354.9', '69.0', '1013', '71.3'], ['CAPATRP3h', '195.9\xa0±\xa019.7', '1009.0', '69.2', '838', '72.5'], ['CAPATRP4h', '247.7\xa0±\xa07.3', '800.0', '69.4', '204', '57.5']]"
+INFO       in table.py            --> Configuration parameters are: {'use_title_row': True, 'use_prefixing': True, 'use_footnotes': True, 'use_spanning_cells': True, 'use_header_extension': True, 'use_max_data_area': False, 'standardize_empty_data': True, 'row_header': None, 'col_header': None}
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in table.py            --> Initialization of table: "[[''], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h']]"
+INFO       in table.py            --> Configuration parameters are: {'standardize_empty_data': False, 'clean_row_header': True, 'row_header': 0, 'col_header': 0}
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in table.py            --> Initialization of table: "[[''], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h']]"
+INFO       in table.py            --> Configuration parameters are: {'standardize_empty_data': False, 'clean_row_header': True, 'row_header': 0, 'col_header': 0}
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in table.py            --> Initialization of table: "[[''], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP2h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP3h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h'], ['CAPATRP4h']]"
+INFO       in table.py            --> Configuration parameters are: {'standardize_empty_data': False, 'clean_row_header': True, 'row_header': 0, 'col_header': 0}
+INFO       in from_any.py         --> Input is list type.
+INFO       in from_any.py         --> Input is list type.
+INFO       in table.py            --> Initialization of table: "[[''], [''], [''], ['']]"
+INFO       in table.py            --> Configuration parameters are: {'standardize_empty_data': False, 'clean_row_header': True, 'row_header': 0, 'col_header': 0}
+INFO       in from_any.py         --> Input is list type.
+CRITICAL   in table.py            --> Input table is empty.
